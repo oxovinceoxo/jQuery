@@ -1,5 +1,32 @@
+html{
+	margin:0;
+	padding: 0;
+}
 
+ #sortable { list-style-type: none; margin: 0; padding: 0; width: 60%; }
+  #sortable li { margin:  3px 3px 3px; padding: 50px; padding-left: 1.5em; height: 18px; }
+  #sortable li span { position: absolute; margin-left: -1.3em; }
 
-#sortable { list-style-type: none; margin: 0; padding: 0; width: 60%; }
-#sortable li { margin: 0 3px 3px 3px; padding: 0.4em; padding-left: 1.5em; font-size: 1.4em; height: 18px; }
-#sortable li span { position: absolute; margin-left: -1.3em; }
+ ul {
+  list-style-type: none;
+}
+
+body{
+	margin:0;
+	padding: 0;
+	background-image: url(https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif);
+	color: #333;
+
+}
+
+h1{
+	text-align: center;
+	color: #fffff
+}
+.bloc1{
+	padding: 30px;
+	width: 41%;
+	height: 800px;
+	margin-left: auto;
+  	margin-right: auto;
+}
